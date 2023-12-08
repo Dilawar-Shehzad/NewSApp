@@ -6,6 +6,7 @@ import HomeScreen from './screens/HomeScreen';
 export default function App() {
   return (
     <View style={styles.container}>
+    // new Line of Codes.
       <HomeScreen/>
     </View>
   );
